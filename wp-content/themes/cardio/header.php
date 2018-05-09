@@ -35,7 +35,7 @@
 							<?php wp_nav_menu( array('theme_location'  => 'primary') ); ?>							
 						</div>						
 				<div class="clear"></div>
-            </div><!--container-->               
+            </div>HELLLLLLLLLLLLLOOOOOOOOOOOOO<!--container-->               
 		</div><!-- header -->	
 			
     <?php if ( is_front_page() && !is_home() ) { ?>
